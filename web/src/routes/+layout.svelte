@@ -1,10 +1,9 @@
 <script>
-  import 'uno.css';
-  import '../app.css';
   import Footer from '$lib/components/container/Footer.svelte';
   import Discord from '$lib/svg/Discord.svelte';
   import Github from '$lib/svg/Github.svelte';
-  import PrivnoteLogo from '$lib/svg/PrivnoteLogo.svelte';
+  import 'uno.css';
+  import '../app.css';
 </script>
 
 <header class="bg-main">
